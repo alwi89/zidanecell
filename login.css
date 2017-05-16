@@ -1,0 +1,54 @@
+body{
+background:#006699;
+}
+#main{
+    border: solid 1px #CCCCCC;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    background:#FFFFFF;
+    z-index: 100;
+
+ 
+    margin-top: -200px;
+
+    width: 400px;
+    margin-left: -200px;
+	padding:10px;
+}
+input[type=text]{
+border-radius: 5px 5px;
+padding:10px;
+width:94%;
+}
+input[type=text]:focus{
+background:#CCCCCC;
+}
+input[type=password]{
+border-radius: 5px 5px;
+padding:10px;
+width:94%;
+}
+input[type=password]:focus{
+background:#CCCCCC;
+}
+input[type=submit]{
+width:100%;
+color:#FFFFFF;
+background:#006699;
+border-radius: 5px 5px;
+padding:10px;
+}
+input[type=submit]:hover{
+background:url(images/gray.png);
+color:#000000;
+cursor:pointer;
+}
+.adm{
+color:#999999;
+font-size:24px;
+}
+.error{
+color:#FF0000;
+font-style:italic;
+}

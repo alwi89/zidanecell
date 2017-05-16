@@ -1,0 +1,8 @@
+<br />
+<b>Warning</b>:  mysql_num_rows() expects parameter 1 to be resource, boolean given in <b>F:\kucing\LAB_PRIBADI\WEB\zidane\lap_return_ecer_excel.php</b> on line <b>6</b><br />
+<br />
+<b>Warning</b>:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in <b>F:\kucing\LAB_PRIBADI\WEB\zidane\lap_return_ecer_excel.php</b> on line <b>8</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: data in <b>F:\kucing\LAB_PRIBADI\WEB\zidane\lap_return_ecer_excel.php</b> on line <b>26</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>F:\kucing\LAB_PRIBADI\WEB\zidane\lap_return_ecer_excel.php</b> on line <b>26</b><br />
